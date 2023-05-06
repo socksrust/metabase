@@ -1,4 +1,4 @@
-FROM metabase/metabase
+FROM metabase/metabase:v0.46.2
 
 ARG PGPASSWORD
 ARG PGHOST
